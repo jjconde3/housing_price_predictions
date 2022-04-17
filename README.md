@@ -18,7 +18,7 @@ This repo includes:
 - Exploratory data analysis and data visualization (seaborn, matplotlib)
 
 ## Kaggle Competition Results
-We had several submissions to the Kaggle competition to test the strength of our models. Our best model was a Gradient Boosted Decision Tree with a root mean squared log error of 0.12996 (72nd percentile of 5,000+ competition entries).
+We had several submissions to the Kaggle competition to test the strength of our models. Our best model was a Gradient Boosted Decision Tree with a root mean squared log error of 0.12996. As of December 2021, this score placed us at the 72nd percentile of 5,000+ competition entries.
 
 ## Team Members
 Alphabetically by last name: Stephen Chen, Jenny Conde, Andy Tertzakian
